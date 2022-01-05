@@ -20,3 +20,4 @@ dnspython
 git+https://github.com/Sorrybabe/downloader
 pymongo[srv]
 TgCrypto
+pip3 install
